@@ -102,8 +102,8 @@ red-team-toolkit/
 ### Clone repo
 
 ```bash
-git clone https://github.com/firefly1368-code/red-team-toolkit.git
-cd red-team-toolkit
+git clone https://github.com/firefly1368-code/RedTeamCli.git
+cd RedTeamCli
 ```
 
 ### Beri permission
@@ -243,7 +243,9 @@ Semua hasil scan dan eksekusi otomatis disimpan:
 
 ## 🤝 Kontribusi
 
-Pull request welcome. Untuk perubahan besar, buka issue dulu.
+Pull request welcome, Menemukan bug? Punya ide? Atau malah tidak sengaja merusak seluruh toolkit-nya?
+Buat *issue* dulu lah. Untuk perubahan besar, silakan buat *issue* agar kita bisa mendiskusikannya terlebih dahulu.
+Saya akan membacanya dan meninjaunya kalo beneran di baca sama saya.
 
 ```bash
 git checkout -b feature/nama-fitur
@@ -258,7 +260,7 @@ git push origin feature/nama-fitur
 **Riski Akbar**
 - GitHub: [@firefly1368-code](https://github.com/firefly1368-code)
 - TJKT — SMK Wikrama Bogor
-- CTF Player | Ethical Hacker | Full-stack Dev
+- CTF Player | Ethical Hacker 
 
 ---
 
@@ -274,5 +276,5 @@ Script ini dibuat untuk **keperluan edukasi dan authorized testing**. Tidak ada 
 ---
 
 <div align="center">
-<sub>Made with ☕ dan banyak <code>nmap</code> — firefly1368-code</sub>
+<sub>Made with ☕ dan banyak <code>nmap</code> — firefly1368-code btw boleh di oprek yak,saya kasih kebebasan untuk oprek atau modifikasi.</sub>
 </div>
